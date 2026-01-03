@@ -2,5 +2,3 @@
 
 ## Olá seja bemvindo ao repositorio super lagoa.
 
-### Links Importantes
-1. [postman]<https://web.postman.co/workspace/e0d25cb0-3014-40a2-9447-12dbc35e9c7e>
